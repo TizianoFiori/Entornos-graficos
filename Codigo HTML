@@ -1,0 +1,40 @@
+<!DOCTYPE HTML>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <title>Examenes 2008</title>
+</head>
+<body>
+    <a href = "https://www.frro.utn.edu.ar" target="blank">
+        <img src="logoutn.jpg" alt="UTN-FRRO" width="100">
+    </a>
+    <hr>
+    <h1>AÑo 2008</h1>
+    <table border="1" width="80%" cellspacing="0">
+        <th colspan="2"> 
+            <h3>Examenes</h3>
+        </th>
+        <tr>
+            <td> Fecha: ..............</td>
+            <td> Aprobados<br><hr>24/30</td>
+        </tr>
+    </table>
+    <ol>
+        <li>
+            <a href="#Enunciado">Enunciado del examen</a></li>
+        <li><a href="https://www.xx.com/resolucion" target="_blank">Resolucion</a></li>
+    </ol>
+    <h4>Puede realizar consultas completando el siguiente formulario:</h4>
+    <form action="mailto:xx@x.com" method="post" enctype="text/plain">
+        e-mail: <input type="text" name="email"><br>
+        consulta:<textarea name="consulta" rows="5" cols="40"></textarea><br><br>
+        <input type="submit" value="ENVIAR">
+        <input type="reset" value="BORRAR">
+    </form>
+    <h3 id="Enunciado">Enunciado del examen</h3>
+    <p><b>Ejercicio 1:............................................</b></p>
+    <p><b>Ejercicio 2:............................................</b></p>
+    <br>
+    <p>Para mas informacion dirigirse a <a href="mailto:contacto@xx.com">contacto@xx.com</a></p>
+</body>
+</html>
